@@ -1,0 +1,8 @@
+1. Morse Code
+   1. What is Morse Code?
+   *Morse Code is a character encoding scheme of the alphabets of English and some other languages. It also encodes Arabic numbers and punctuation marks. There are two well-known versions: American and International. The International version contains additional codes for non-English characters, doesn't have the long intra-character spaces and two long dashes, and is used in many countries except U.S.A and Canada. Each Morse Code character is represented by sequence of dots and dashes; each dot is a short period of time (one unit) or mark, and each dash is three times as long as a dot. Within a character, a space which is represented by a short period of time (one unit) separates the dots and dashes. A space with longer period of time, 3 units, is to separate each character. Another space with a seven-unit representation is used to separate between groups of characters (words).  Morse Code can be transmitted by electric current, radio waves, visible light, sound waves, or human physical gestures such as blinking of the eyes.
+   *
+   2. Who developed Morse Code?
+   *Morse Code was originally developed by Samuel F. B. Morse and Alfred L. Vail in the U.S.A in the 1830s. It was modified in Europe and included non-English characters by Friedrich C. Gerke in the late 1830s in Germany.*
+2. Write a program to present your first name with Morse Code using the user LED on the Nucleo-F401RE evaluation board.
+   *Please see the file main.c in the folder MorseCode.*
