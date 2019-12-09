@@ -8,7 +8,7 @@
    
    1. Share a screen shot of the local variables inside of “main” after the function swap_pointer() returns, showing the values of the pointers and what they are pointing to.
       * Please see the following image
-   ![result](/images/embSysHW5-1c.PNG)
+   ![result](https://github.com/h2doan/embsys100/tree/master/assignment05/images/embSysHW5-1c.PNG)
 
 1. Run sqrAsm code from the class demo:
    * Run your program on the board, and capture a snapshot image of the output from TeraTerm.
