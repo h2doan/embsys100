@@ -1,0 +1,20 @@
+stm32f4xx_gpio.pbi: \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common\stm32f4xx_gpio.c \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/stm32f4xx_gpio.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/stm32f4xx.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common\core_cmInstr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\cmsis_iar.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c/iccarm_builtin.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common\core_cmFunc.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common\core_cmSimd.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/system_stm32f4xx.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/stm32f4xx_conf.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/stm32f4xx_rcc.h \
+  C:\uwEmbSysWorkSpace\assignment05\HelloWorld\common/misc.h

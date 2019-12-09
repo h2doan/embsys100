@@ -1,0 +1,128 @@
+[
+  {
+    "ID": "c:@F@swap_pointers",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int swap_pointers(int **, int **)",
+    "location": {
+      "column": "5",
+      "line": "1",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "swap_pointers",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@swap_pointers",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int swap_pointers(int **, int **)",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "swap_pointers",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@92@F@swap_pointers@tempPtr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "tempPtr",
+    "location": {
+      "column": "8",
+      "line": "4",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "tempPtr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@113@F@swap_pointers@result",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "result",
+    "location": {
+      "column": "7",
+      "line": "5",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "result",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "22",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@580@F@main@x",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "x",
+    "location": {
+      "column": "7",
+      "line": "24",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "x",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@597@F@main@y",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "y",
+    "location": {
+      "column": "7",
+      "line": "25",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "y",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@618@F@main@xPtr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "xPtr",
+    "location": {
+      "column": "8",
+      "line": "27",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "xPtr",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@636@F@main@yPtr",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "yPtr",
+    "location": {
+      "column": "8",
+      "line": "28",
+      "path": "C:\\uwEmbSysWorkSpace\\assignment05\\main.c"
+    },
+    "name": "yPtr",
+    "origin": "project_file",
+    "scope": null
+  }
+]
