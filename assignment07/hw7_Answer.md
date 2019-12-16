@@ -1,0 +1,4 @@
+1. Set a break point inside the SysTick_Handler interrupt and capture a snapshot of the stack once inside the interrupt and LR value. Explain what are the values stored on the stack at the moment the Handler gets invoked.
+   * The SP shows the value 0x20001F98. At this address, its content is 7. The value 7 is the value of SysTick->Ctrl (STK_CTRL). Since all bits are 1, Bit 0, ENABLE, has value of 1 meaning that "Counter enabled". Bit 1, TICKINT, has value of 1 meaning that "Counting down to zero to asserts the SysTick exception request".  Bit 2, CLKSOURCE, has value of 1 meaning that "Processor clock (AHB)".
+   
+   ![result](https://github.com/h2doan/embsys100/tree/master/assignment07/images/embSysHW7-1f.PNG)
